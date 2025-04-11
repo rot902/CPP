@@ -1,0 +1,5 @@
+C:\wamp64\www\CPP\game2\game2\obj\Debug\net8.0-windows\game2.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\CPP\game2\game2\obj\Debug\net8.0-windows\game2.AssemblyInfoInputs.cache
+C:\wamp64\www\CPP\game2\game2\obj\Debug\net8.0-windows\game2.AssemblyInfo.cs
+C:\wamp64\www\CPP\game2\game2\obj\Debug\net8.0-windows\game2.csproj.CoreCompileInputs.cache
+C:\wamp64\www\CPP\game2\game2\obj\Debug\net8.0-windows\game2.sourcelink.json
